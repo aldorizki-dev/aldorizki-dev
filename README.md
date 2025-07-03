@@ -31,6 +31,12 @@ I follow best practices, care about architecture, and continuously learn to stay
 
 ---
 
+---
+
+## 📈 My Github Stat
+![Snake animation](https://github.com/aldorizki-dev/aldorizki-dev/blob/output/github-contribution-grid-snake.svg)
+---
+
 <!--
 **aldorizki-dev/aldorizki-dev** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
