@@ -33,9 +33,16 @@ I follow best practices, care about architecture, and continuously learn to stay
 
 ---
 
-## 📈 My Github Stat
-![Snake animation](https://github.com/aldorizki-dev/aldorizki-dev/blob/output/github-contribution-grid-snake.svg)
+## 📈 My Portfolio
+
+<p align="center">
+  <a href="https://twentifo.vercel.app/en/creator" target="_blank">
+    <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio"/>
+  </a>
+</p>
+
 ---
+
 
 <!--
 **aldorizki-dev/aldorizki-dev** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
