@@ -35,8 +35,8 @@ I follow best practices, care about architecture, and continuously learn to stay
 
 ## 📈 My Portfolio
 
-<p align="center">
-  <a href="https://twentifo.vercel.app/en/creator" target="_blank">
+<p align="left">
+  <a target="_blank" href="https://twentifo.vercel.app/en/creator" target="_blank">
     <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio"/>
   </a>
 </p>
